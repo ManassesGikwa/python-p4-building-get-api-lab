@@ -56,7 +56,7 @@ $ flask db upgrade head
 Run the following command to seed the table with sample data:
 
 ```command
-$ python seed.py
+$ python3 seed.py
 ```
 
 You can run the app and explore your API in the browser by using Flask command:
